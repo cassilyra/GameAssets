@@ -52,6 +52,10 @@
         {
           "name": "012",
           "imageUrl": "https://cassilyra.github.io/GameAssets/images/012.png"
+        },
+        {
+          "name": "016",
+          "imageUrl": "https://cassilyra.github.io/GameAssets/images/016.png"
         }
       ]
     },
