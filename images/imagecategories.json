@@ -18,7 +18,7 @@
     "015": { "VIP": false, "DailyFree": false, "url": "https://cassilyra.github.io/GameAssets/images/015.png" }
   },
   "categories": {
-    "NewImages": [ "013, 009" ],
+    "NewImages": [ "013", "009" ],
     "Animals": [ "002", "004", "007" ],
     "Flora": [ "000", "008", "011" ],
     "Machines": [ "001", "005", "006", "012" ],
