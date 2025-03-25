@@ -1,0 +1,15 @@
+{
+  "images": {
+    "000": { "VIP": true, "DailyFree": false, "url": "https://cassilyra.github.io/GameAssets/images/000.png" },
+    "002": { "VIP": true, "DailyFree": false, "url": "https://cassilyra.github.io/GameAssets/images/002.png" },
+    "004": { "VIP": false, "DailyFree": true, "url": "https://cassilyra.github.io/GameAssets/images/004.png" },
+    "008": { "VIP": false, "DailyFree": false, "url": "https://cassilyra.github.io/GameAssets/images/008.png" },
+    "011": { "VIP": false, "DailyFree": true, "url": "https://cassilyra.github.io/GameAssets/images/011.png" },
+    "013": { "VIP": false, "DailyFree": true, "url": "https://cassilyra.github.io/GameAssets/images/013.png" }
+  },
+  "categories": {
+    "Animals": [ "002", "004" ],
+    "Flora": [ "000", "008", "011", "013" ],
+    "NewImages": [ "013" ]
+  }
+}
