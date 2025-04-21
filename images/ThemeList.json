@@ -1,0 +1,22 @@
+[
+  {
+    "themeName": "sakura",
+    "colors": ["#ffb7c5", "#ffdee5", "#ffc1cc", "#ffe4e1", "#fcd5ce"]
+  },
+  {
+    "themeName": "coral",
+    "colors": ["#ff7f50", "#ff6347", "#ff4500", "#e9967a", "#fa8072"]
+  },
+  {
+    "themeName": "winter",
+    "colors": ["#b0e0e6", "#e0ffff", "#add8e6", "#afeeee", "#dbe9f4"]
+  },
+  {
+    "themeName": "neon",
+    "colors": ["#39ff14", "#ff6ec7", "#00ffff", "#ff9933", "#ccff00"]
+  },
+  {
+    "themeName": "skin1",
+    "colors": ["#f1c27d", "#e0ac69", "#c68642", "#8d5524", "#ffdbac"]
+  }
+]
