@@ -1,22 +1,46 @@
 [
   {
     "themeName": "sakura",
-    "colors": ["#ffb7c5", "#ffdee5", "#ffc1cc", "#ffe4e1", "#fcd5ce"]
+    "colors": ["#ffb7c5", "#ffdee5", "#ffc1cc", "#ffe4e1", "#fcd5ce", "#fbc4cb", "#ffcad4", "#f5b3b3", "#ffd1dc", "#f8c8dc"]
   },
   {
     "themeName": "coral",
-    "colors": ["#ff7f50", "#ff6347", "#ff4500", "#e9967a", "#fa8072"]
+    "colors": ["#ff7f50", "#ff6347", "#ff4500", "#e9967a", "#fa8072", "#f88379", "#ff6f61", "#ff8c69", "#ff5e57", "#fc6c85"]
   },
   {
     "themeName": "winter",
-    "colors": ["#b0e0e6", "#e0ffff", "#add8e6", "#afeeee", "#dbe9f4"]
+    "colors": ["#b0e0e6", "#e0ffff", "#add8e6", "#afeeee", "#dbe9f4", "#e6f7ff", "#cceeff", "#d0f0fd", "#bde0fe", "#cae7ff"]
   },
   {
     "themeName": "neon",
-    "colors": ["#39ff14", "#ff6ec7", "#00ffff", "#ff9933", "#ccff00"]
+    "colors": ["#39ff14", "#ff6ec7", "#00ffff", "#ff9933", "#ccff00", "#ff00ff", "#00ffcc", "#ff1493", "#00ff00", "#ffcc00"]
   },
   {
     "themeName": "skin1",
-    "colors": ["#f1c27d", "#e0ac69", "#c68642", "#8d5524", "#ffdbac"]
+    "colors": ["#f1c27d", "#e0ac69", "#c68642", "#8d5524", "#ffdbac", "#d1a37e", "#bc8f8f", "#deb887", "#ffe4c4", "#fad6bf"]
+  },
+  {
+    "themeName": "atmosphere",
+    "colors": ["#2e3a59", "#415a77", "#778da9", "#e0e1dd", "#1b263b", "#0d1b2a", "#3c4048", "#6a7b8c", "#a9bcd0", "#ced4da"]
+  },
+  {
+    "themeName": "hair1",
+    "colors": ["#1c1c1c", "#4b3621", "#a0522d", "#8b4513", "#deb887", "#d2b48c", "#fff5e1", "#e6ccb2", "#f5deb3", "#3b2f2f"]
+  },
+  {
+    "themeName": "hair2",
+    "colors": ["#000000", "#3d2b1f", "#734f28", "#a67b5b", "#d6a77a", "#eac086", "#ffd8be", "#f9dbbd", "#d2b48c", "#f5f5dc"]
+  },
+  {
+    "themeName": "skin2",
+    "colors": ["#ffe0bd", "#ffcd94", "#eac086", "#ffad60", "#ffe5b4", "#ffdbac", "#fddbb0", "#fad6bf", "#f4c29a", "#deb887"]
+  },
+  {
+    "themeName": "sienna",
+    "colors": ["#882d17", "#a0522d", "#cd853f", "#d2691e", "#e97451", "#c76114", "#a65e2e", "#bc5a45", "#e97451", "#a0522d"]
+  },
+  {
+    "themeName": "pride",
+    "colors": ["#e40303", "#ff8c00", "#ffed00", "#008026", "#004dff", "#750787", "#ffffff", "#f5a9b8", "#d60270", "#9b4f96"]
   }
 ]
