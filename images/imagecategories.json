@@ -16,12 +16,13 @@
     "013": { "VIP": false, "DailyFree": true, "url": "https://cassilyra.github.io/GameAssets/images/013.png" },
     "014": { "VIP": true, "DailyFree": false, "url": "https://cassilyra.github.io/GameAssets/images/014.png" },
     "015": { "VIP": false, "DailyFree": false, "url": "https://cassilyra.github.io/GameAssets/images/015.png" },
-    "016": { "VIP": false, "DailyFree": false, "url": "https://cassilyra.github.io/GameAssets/images/016.png" }
+    "016": { "VIP": false, "DailyFree": false, "url": "https://cassilyra.github.io/GameAssets/images/016.png" },
+    "017": { "VIP": false, "DailyFree": false, "url": "https://cassilyra.github.io/GameAssets/images/017.png" }
   },
   "categories": {
     "NewImages": [ "013", "009" ],
-    "Animals": [ "002", "004", "007" ],
-    "Flora": [ "000", "008", "011" ],
+    "Animals": [ "002", "004", "007", "017" ],
+    "Flora": [ "000", "008", "011", "017" ],
     "Machines": [ "001", "005", "006", "012", "016" ],
     "Humans": [ "003", "009", "015" ],
     "Things": ["010", "013", "014"]
