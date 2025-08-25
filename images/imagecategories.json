@@ -15,7 +15,8 @@
     "012": { "VIP": false, "DailyFree": true, "url": "https://cassilyra.github.io/GameAssets/images/012.png" },
     "013": { "VIP": false, "DailyFree": true, "url": "https://cassilyra.github.io/GameAssets/images/013.png" },
     "014": { "VIP": true, "DailyFree": false, "url": "https://cassilyra.github.io/GameAssets/images/014.png" },
-    "015": { "VIP": false, "DailyFree": false, "url": "https://cassilyra.github.io/GameAssets/images/015.png" }
+    "015": { "VIP": false, "DailyFree": false, "url": "https://cassilyra.github.io/GameAssets/images/015.png" },
+    "016": { "VIP": false, "DailyFree": false, "url": "https://cassilyra.github.io/GameAssets/images/016.png" }
   },
   "categories": {
     "NewImages": [ "013", "009" ],
