@@ -16,10 +16,14 @@
     "013": { "VIP": false, "RequiresAd": true, "url": "https://cassilyra.github.io/GameAssets/images/013.png" },
     "014": { "VIP": true, "RequiresAd": false, "url": "https://cassilyra.github.io/GameAssets/images/014.png" },
     "015": { "VIP": false, "RequiresAd": true, "url": "https://cassilyra.github.io/GameAssets/images/015.png" },
-    "017": { "VIP": false, "RequiresAd": false, "url": "https://cassilyra.github.io/GameAssets/images/017.png" }
+    "017": { "VIP": false, "RequiresAd": false, "url": "https://cassilyra.github.io/GameAssets/images/017.png" },
+    "018": { "VIP": false, "RequiresAd": false, "url": "https://cassilyra.github.io/GameAssets/images/018.png" },
+    "019": { "VIP": false, "RequiresAd": false, "url": "https://cassilyra.github.io/GameAssets/images/019.png" },
+    "020": { "VIP": false, "RequiresAd": false, "url": "https://cassilyra.github.io/GameAssets/images/020.png" },
+    "021": { "VIP": false, "RequiresAd": false, "url": "https://cassilyra.github.io/GameAssets/images/021.png" }
   },
   "categories": {
-    "New": [ "005", "013", "009", "008", "011" ],
+    "New": [ "021", "020", "019", "018", "009", "008", "011" ],
     "Popular": ["013", "009", "017", "010", "015"],
     "Animals": [ "002", "004", "007", "017" ],
     "Floral": [ "000", "008", "011", "017" ],
